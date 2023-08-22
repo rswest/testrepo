@@ -9,5 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 answer <- 2+2
+
+answer2 <- 4+4
 ```
 
